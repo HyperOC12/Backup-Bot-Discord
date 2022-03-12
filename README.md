@@ -14,7 +14,7 @@
 * Clone repository
 
 ```sh
-git clone https://github.com/ItzMeCrazy/Backup-Bot-Discord
+git clone https://github.com/Bluecraftyt/Backup-Bot-Discord
 ```
 
 * Fill configuration (config.json)
