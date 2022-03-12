@@ -17,7 +17,7 @@
 git clone https://github.com/Bluecraftyt/Backup-Bot-Discord
 ```
 
-https://replit.com/github/Bluecraftyt/Backup-Bot-Discord
+[![Run on Repl.it](https://repl.it/badge/github/disbotsxyz/Disbots)](https://repl.it/github/Bluecraftyt/Backup-Bot-Discord)<br>
 
 * Fill configuration (config.json)
 
