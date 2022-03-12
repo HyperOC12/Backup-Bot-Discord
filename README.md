@@ -17,6 +17,8 @@
 git clone https://github.com/Bluecraftyt/Backup-Bot-Discord
 ```
 
+https://replit.com/github/Bluecraftyt/Backup-Bot-Discord
+
 * Fill configuration (config.json)
 
 > Head to https://discord.com/developers/applications and create an application to obtain your bot token.
